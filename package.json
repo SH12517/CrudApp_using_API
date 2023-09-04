@@ -2,7 +2,7 @@
   "name": "crudapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SH12517.github.io/CrudApp_using_API",
+  "homepage": "https://sh12517.github.io/CrudApp_using_API",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
